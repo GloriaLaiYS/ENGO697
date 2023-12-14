@@ -5,6 +5,12 @@ ENGO697 Directed Project
 
 This model simulates the dynamics of a housing market within city of Calgary. It explores how various factors such as residences' budgets, housing prices, and proximity to amenities like train stations influence the movement of residents and the fluctuation of housing prices. The model aims to show how individual decisions at the residence level aggregate to form broader market trends.
 
+<div align="center">
+  <img style="width:500px;" src="screenshoot1.png" alt="NetLogo Calgary Housing">
+</div>
+<div align="center">
+  <img style="width:500px;" src="screenshoot2.png" alt="NetLogo Calgary Housing">
+</div>
 
 ## HOW IT WORKS
 
